@@ -21,13 +21,13 @@ This is a code for a basic pepper spray alarm system
 
 ## Instructions:
 
-clone repository
+**Clone repository:**
 
 ```
 git clone https://github.com/potgieterbt/Arduino_Pepper_alarm_system.git
 ```
 
-**open code in Arduino IDE:**
+**Open code in Arduino IDE:**
 * > Right click > open with ... > Arduino IDE 
 
 **Upload code to Arduino:**
